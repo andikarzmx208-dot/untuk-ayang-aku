@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Maaf Untuk Syakira ❤️</title>
+<title>TAYANG AKU MINTAA MAAFFFF❤️</title>
 
 <style>
 * {
@@ -144,7 +144,7 @@ button:hover {
     <div id="pesan">
 
         <h2 style="color:#e84370; margin-bottom:15px;">
-            Untuk Syakira ❤️
+            Untuk TAYANG AKUHHH❤️
         </h2>
 
         <p>
@@ -169,7 +169,7 @@ button:hover {
     </div>
 
     <div class="footer">
-        Made with ❤️ khusus untuk Syakira
+        Made with ❤️ khusus untuk TAYANG AKUU TERCINTA 
     </div>
 
 </div>
